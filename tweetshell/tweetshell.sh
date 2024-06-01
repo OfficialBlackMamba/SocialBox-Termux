@@ -29,7 +29,7 @@ printf "\e[1;36m    _| || |_    | \ \ /\ / / _ \/ _ \ __\e[1;92m/ __| '_ \ / _ \
 printf "\e[1;36m   |_  __  _|   | |\ V  V /  __/  __/ |_\e[1;92m\__ \ | | |  __/ | | \e[0m\n"
 printf "\e[1;36m     |_||_|     \_/ \_/\_/ \___|\___|\__\e[1;92m|___/_| |_|\___|_|_| \e[0m\n"
 printf "\n"
-printf "\e[1;77m\e[44m Twitter BruteForcer v1.0 Author: thelinuxchoice (Github/IG)\e[0m\n"
+printf "\e[1;77m\e[44m Twitter BruteForcer v1.0 Author: Team Mamba (Github/IG)\e[0m\n"
 printf "\n"
 }
 
