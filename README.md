@@ -1,10 +1,10 @@
 # SocialBox-Termux
-SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh
+SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By BlackMamba
 # Installation
 ```
 apt-get update
 apt-get install git
-git clone https://github.com/samsesh/SocialBox-Termux.git 
+git clone https://github.com/OfficialBlackMamba/SocialBox-Termux.git 
 cd SocialBox-Termux
 chmod +x install-sb.sh
 ./install-sb.sh
@@ -26,14 +26,14 @@ chmod +x install-sb.sh
 # for any os :
 * [socialbox](https://github.com/samsesh/SocialBox)
 # Contact
-* [Youtube](https://www.Youtube.com/@samseshtech) - samseshtech
-* [Instagram](https://www.instagram.com/samseshtech) - samseshtech
-* [Twitter](https://www.twitter.com/_samsesh) - _samsesh
-* [Instagram](https://www.instagram.com/samses) - sam.sesh
+* [Youtube](https://www.Youtube.com/@HistoricalMania) - Blackmamba
+* [Instagram](https://www.instagram.com/SukhpalInsta) - Blackmamba
+* [Twitter](https://www.twitter.com/SukhiKherera) - Blackmamba
+* [Instagram](https://www.instagram.com/) - 
 # Authors :
-* facebook  : Imad
-* gmail     : Ha3MrX
-* instagram : thelinuxchoice
-* Twitter   : thelinuxchoice
-* SocialBox : samsesh
-* SocialBox-Termux : samsesh
+* facebook  : 
+* gmail     : 
+* instagram : 
+* Twitter   : 
+* SocialBox : 
+* SocialBox-Termux : Black Mamba
